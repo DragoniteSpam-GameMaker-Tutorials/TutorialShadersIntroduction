@@ -1,0 +1,35 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "TutorialShaders",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.1100.0.441",
+  },
+  "resources": [
+    {"id":{"name":"obj_object","path":"objects/obj_object/obj_object.yy",},},
+    {"id":{"name":"spr_checker","path":"sprites/spr_checker/spr_checker.yy",},},
+    {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
+    {"id":{"name":"spr_duck","path":"sprites/spr_duck/spr_duck.yy",},},
+    {"id":{"name":"spr_dog","path":"sprites/spr_dog/spr_dog.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
