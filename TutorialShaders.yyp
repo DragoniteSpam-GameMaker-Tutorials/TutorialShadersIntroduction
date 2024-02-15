@@ -20,6 +20,7 @@
   "resources": [
     {"id":{"name":"obj_object","path":"objects/obj_object/obj_object.yy",},},
     {"id":{"name":"spr_checker","path":"sprites/spr_checker/spr_checker.yy",},},
+    {"id":{"name":"shd_shader","path":"shaders/shd_shader/shd_shader.yy",},},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
     {"id":{"name":"spr_duck","path":"sprites/spr_duck/spr_duck.yy",},},
     {"id":{"name":"spr_dog","path":"sprites/spr_dog/spr_dog.yy",},},

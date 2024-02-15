@@ -3,6 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_object","order":17,"path":"objects/obj_object/obj_object.yy",},
     {"name":"spr_checker","order":16,"path":"sprites/spr_checker/spr_checker.yy",},
+    {"name":"shd_shader","order":21,"path":"shaders/shd_shader/shd_shader.yy",},
     {"name":"spr_tree","order":18,"path":"sprites/spr_tree/spr_tree.yy",},
     {"name":"spr_duck","order":19,"path":"sprites/spr_duck/spr_duck.yy",},
     {"name":"spr_dog","order":20,"path":"sprites/spr_dog/spr_dog.yy",},
